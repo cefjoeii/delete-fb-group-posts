@@ -4,7 +4,7 @@ An iMacros script to auto delete posts on Facebook groups.
 The one that worked is through the **mbasic** mode. I tried making a script for the **desktop** and **mobile** version of Facebook but the delete buttons generate unpredictable POS values. So let's go and clean that spam-infested Facebook group of yours.
 
 ###### Step 1
-Download the  [_iMacros for Chrome_](http://github.com) extension.
+Download the  [_iMacros for Chrome_](https://chrome.google.com/webstore/detail/imacros-for-chrome/cplklnmnlbnpmjogncfgfijoopmnlemp?hl=en) extension.
 
 ###### Step 2
 The extensions can be seen at the top right corner of the browser. Click on the _iMacros for Chrome_ icon to run.
