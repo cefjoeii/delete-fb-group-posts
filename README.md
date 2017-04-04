@@ -1,5 +1,6 @@
 # Delete Facebook Group Posts in 2017
-An iMacros script to auto delete posts on Facebook groups.
+
+![Image of Delete Facebook Group Posts](https://raw.githubusercontent.com/cefjoeii/delete-fb-group-posts/master/delete-fb-group-posts.png)
 
 The one that worked is through the **mbasic** mode. I tried making a script for the **desktop** and **mobile** version of Facebook but the delete buttons generate unpredictable POS values. So let's go and clean that spam-infested Facebook group of yours.
 
