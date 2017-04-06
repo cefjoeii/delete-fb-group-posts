@@ -22,7 +22,7 @@ Click on the **Record Macro** button then click on the **Stop** button. The iMac
 
 Replace the code inside the editor with:
 
-```
+```javascript
 SET !TIMEOUT_STEP 1
 SET !ERRORIGNORE YES
 
@@ -51,7 +51,7 @@ Click on the **Record Macro** button again then click on the **Stop** button.
 
 Replace the code inside the editor with:
 
-```
+```javascript
 SET !TIMEOUT_STEP 1
 SET !ERRORIGNORE YES
 
@@ -71,7 +71,7 @@ TAG POS=1 TYPE=BUTTON ATTR=TXT:Delete
 WAIT SECONDS=2
 ```
 
-As you can see from the code, there is a URL. Change the it to your group's URL
+As you can see from the code, there is a URL. Change it to your group's URL
 
 Hit **Save As & Close** button. Rename the script to something like **www.iim** Make sure you got that extension correctly as well.
 
@@ -80,7 +80,7 @@ Go to the **Play** tab. Set the Max value to 999.
 
 #### Step 7
 Go to your facebook group's url and make sure your language is set to English.
-Example: mbasic.facebook.com/groups/_URL_ or www.facebook.com/groups/_URL_
+Example: mbasic.facebook.com/groups/URL or www.facebook.com/groups/URL
 
 #### Step 8
 Select the appropriate script from the yellowish tree pane.
