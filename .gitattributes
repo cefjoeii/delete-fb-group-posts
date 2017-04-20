@@ -1,0 +1,18 @@
+# Declare files that will always have LF line endings on checkout.
+
+*.iim text eol=lf
+*.js text eol=lf
+*.md text eol=lf
+
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+# Denote all files that are truly binary and should not be modified.
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.bmp binary
+
+*.zip binary
